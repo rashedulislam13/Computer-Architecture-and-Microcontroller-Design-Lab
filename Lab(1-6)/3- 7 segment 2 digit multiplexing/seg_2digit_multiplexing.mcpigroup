@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=segment2digit.mcppi
+Project1=seg_2digit_multiplexing.mcppi
+[ActiveProject]
+Index=1
